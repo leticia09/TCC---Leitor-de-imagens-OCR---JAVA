@@ -1,1 +1,1 @@
-# TCC---Leitor-de-imagens-OCR---JAVA
+# TCC-Leitor-de-imagens-OCR-JAVA
